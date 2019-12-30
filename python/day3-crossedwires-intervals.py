@@ -3,7 +3,7 @@ import sys
 import copy
 
 def main():
-    fname = "inputs/day3.txt"
+    fname = "../inputs/day3.txt"
     if len(sys.argv) > 1:
         fname = sys.argv[1]
     wires = []
