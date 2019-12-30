@@ -2,7 +2,7 @@ import sys
 import copy
 
 def main():
-    fname = "inputs/day2.txt"
+    fname = "../inputs/day2.txt"
     if len(sys.argv) > 1:
         fname = sys.argv[1]
     original_input = []

@@ -1,7 +1,7 @@
 import sys
 
 def main():
-    fname = "inputs/day1.txt"
+    fname = "../inputs/day1.txt"
     if len(sys.argv) > 1:
         fname = sys.argv[1]
     module_weights = []
